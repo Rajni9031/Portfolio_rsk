@@ -37,11 +37,10 @@ const Projects = () => {
             <Cards
               image={image3}
               name="My Portfolio Website"
-              view="https://superlative-nasturtium-62d5ad.netlify.app"
+              view="https://65b4102b4d919a0a42bf536e--gorgeous-creponne-3cae51.netlify.app/"
               github="https://github.com/skranveer098/My_Portfolio.git"
               techStack="HTML CSS JS"
             />
-            
           </div>
         </div>
       </div>
