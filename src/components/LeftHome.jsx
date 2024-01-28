@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './lefthome.css';
-import image from "./phots/mys.png";
+import image from "./phots/my.jpg";
 
 const LeftHome = () => {
   const [dynamicTextHii, setDynamicTextHii] = useState('');

@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./LeftScroll.css";
+import image5 from "./phots/my.jpg";
 
 const LeftScroll = () => {
   const [openMenu, setOpenMenu] = useState(false);
@@ -43,7 +44,7 @@ const LeftScroll = () => {
     >
       <div className="image">
         <img
-          // src={image5}
+          src={image5}
           alt="bruhh"
           className="Image"
         />

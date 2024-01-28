@@ -8,9 +8,9 @@
     overflow-y: auto; /* Enable scrolling if content exceeds container height */
 }
 
-.Image {
+.image img{
     width: 100%;
-    display: block; /* Adjust display property */
+    height: 100%;
 }
 
 .headings {
@@ -46,8 +46,8 @@ h2 {
 
 .image{
 img{
-    width: 40%;
-    height: 250px;
+    width: 90%;
+    height: 300px;
     border-radius: 50%;
     margin-top: 2%;
 }
