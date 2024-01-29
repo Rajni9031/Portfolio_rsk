@@ -341,3 +341,107 @@ box-shadow:  -18px -18px 36px #dedede,
     width: 100%;
   }
 }
+
+@media screen and (max-width: 550px){
+  .containproject{
+    height: 1150px;
+    width: 100vw;
+    margin-left: 0;
+  }
+  #hproject{
+    margin-top: -200px;
+    font-size: 40px;
+  }
+  p{
+    margin-left: -20px;
+    margin-right: 0px;
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  .boxp{
+    width: 100vw;
+    margin-left: 0;
+  }
+  .card{
+    width: 80vw;
+  }
+  .boxcontainerp{
+    width: 100vw;
+    margin-left: 0;
+  }
+  .card{
+    width: 90vw;
+  }
+  .front .img{
+    width: 100%;
+    height: 100%;
+  }
+  .front .front-content{
+    width: 100%;
+    height: 100%;
+  }
+  .front .front-content .badge{
+    width: 100%;
+  }
+  .front .front-content .title{
+    width: 100%;
+  }
+  .front .front-content .title p{
+    width: 100%;
+  }
+  .front .front-content .description{
+    width: 100%;
+  }
+  .front .front-content .card-footer{
+    width: 100%;
+  }
+  .back 
+  {
+    width: 320px;
+    height: 230px;
+  
+  .back-content{
+    width: 500px;
+    height: 100%;
+  }
+  .back .back-content .badge{
+    width: 100%;
+  }
+  .back .back-content .title{
+    width: 100%;
+  }
+  .back .back-content .title p{
+    width: 100%;
+  }
+  .back .back-content .description{
+    width: 100%;
+  }
+  .back .back-content .card-footer{
+    width: 100%;
+  }
+  .back .back-content .linking{
+    width: 100%;
+  }
+  .back .back-content .linking .fa{
+    width: 100%;
+  }
+  .back .back-content .linking .fa:hover{
+    width: 100%;
+  }
+  .back .back-content .linking .fa:active{
+    width: 100%;
+  }
+  .back .back-content .linking .fa:visited{
+    width: 100%;
+  }
+  .back .back-content .linking .fa:link{
+    width: 100%;
+  }
+  .back .back-content .linking .fa:target{
+    width: 100%;
+  }
+  .back .back-content .linking .fa:focus{
+    width: 100%;
+  }
+}
+}
