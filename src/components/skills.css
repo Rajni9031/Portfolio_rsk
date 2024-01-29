@@ -112,10 +112,10 @@
         }
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 500px){
     .flexskills{
         width: 93vw;
-        height: 900px;
+        height: 980px;
     }
     .containskills{
         width: 100vw;
