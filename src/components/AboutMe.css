@@ -241,6 +241,113 @@ ul i {
     display: none;
    }
 }
+
+@media screen and (max-width: 780px){
+    .flexabout{
+        overflow-y: hidden;
+        height: 50%;
+   
+    .contained{
+        text-align: center;
+        width: 100vw;
+        margin-left: 0%;
+        justify-content: center;
+    
+        h1{
+            font-size: 40px;
+        }
+    }
+}
+   .wrapper{
+       display: none;
+   }
+   #para{
+    /* margin-top: -350px; */
+    margin-left: -70px;
+   }
+   .pic{
+    display: none;
+   }
+}
+
+@media screen and (max-width: 550px){
+    .flexabout{
+        overflow-y: hidden;
+        height: 50%;
+
+    .contained{
+        text-align: center;
+        width: 100vw;
+        margin-left: 0%;
+        justify-content: center;
+    
+        h1{
+            font-size: 40px;
+        }
+    }
+
+    .wrapper{
+       display: none;
+    }
+        #para {
+            margin-top: 130px;
+            margin-left: -100px;
+    
+    
+            p {
+                font-size: 18px;
+                margin-left: 30px;
+                margin-right: 40px;
+                margin-top: -60px;
+            }
+    
+            .row {
+                /* margin-left: 130px; */
+    
+                .col-lg-6 {
+                    margin-top: -20px;
+                    margin-left: 40px;
+                }
+    
+                .col-lg-61 {
+                    margin-top: 110px;
+                    margin-left: -240px;
+                }
+    
+                span {
+                    font-size: 13px;
+                }
+            }
+        }
+    
+        .pic {
+            display: none;
+        }
+        }
+}
+
+@media screen and (max-width: 400px) {
+    .flexabout{
+        height: 50%;
+   
+    .contained{
+        text-align: center;
+        width: 100vw;
+        margin-left: 0%;
+        margin-right: 4%;
+        justify-content: center;
+    
+        h1{
+            font-size: 4rem;
+        }
+    }
+}
+   .wrapper{
+       display: none;
+   }
+   #para{
+    margin-top: 130px;
+    margin-left: -100px;
 @media screen and (max-width: 400px) {
     .flexabout{
         height: 50%;
@@ -291,5 +398,6 @@ ul i {
     display: none;
    }
 }
-
+    }
+}
  
